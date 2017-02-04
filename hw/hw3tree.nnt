@@ -1,0 +1,7 @@
+d /root
+d /root/A
+d /root/B
+d /root/B/b
+d /root/B/D
+d /root/C
+e end /root/B

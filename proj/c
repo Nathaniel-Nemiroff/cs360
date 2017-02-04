@@ -1,0 +1,3 @@
+#gcc -m32 -o comp main.c search.c ext2type.h FStype.h -w
+#gcc -m32 -o comp main.c mainfunc.c func.c func1.c func2.c search.c ext2type.h FStype.h -w
+gcc -m32 -o comp main.c search.c ext2type.h -w

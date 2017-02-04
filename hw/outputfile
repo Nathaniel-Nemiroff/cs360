@@ -1,0 +1,17 @@
+exit status: 25600
+/root: mkdir chin1
+/root: mkdir chin2
+/root: mkdir chin3
+/root: mkdir chin4
+/root: cd chin4
+/root/chin4: mkdir m
+/root/chin4: mkdir u
+/root/chin4: mkdir h
+/root/chin4: cd h
+/root/chin4/h: mkdir ooplah
+/root/chin4/h: mkdir appydays
+/root/chin4/h: mkdir at
+/root/chin4/h: pwd
+/root/chin4/h
+/root/chin4/h: save
+/root/chin4/h: quit

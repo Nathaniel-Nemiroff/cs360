@@ -1,0 +1,4 @@
+cp diskcopy diskimage
+echo diskimage fixed
+cp diskcpy  extradata
+echo extradata fixed

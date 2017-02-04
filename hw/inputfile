@@ -1,0 +1,15 @@
+mkdir chin1
+mkdir chin2
+mkdir chin3
+mkdir chin4
+cd chin4
+mkdir m
+mkdir u
+mkdir h
+cd h
+mkdir ooplah
+mkdir appydays
+mkdir at
+pwd
+save
+quit

@@ -1,0 +1,6 @@
+cat tsh > tash
+echo "echo" $1 >> tash
+cat tash > tsh
+rm tash
+#chmod +x tsh
+echo tsh
